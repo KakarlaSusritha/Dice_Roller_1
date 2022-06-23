@@ -1,3 +1,6 @@
-# Dice_Roller_1
-Learning 1 learnt from udacity classes. 
-This project consists of basic button and image view
+# Dice_Roller_1  
+Learning :  
+  1. adding a button  
+  2. add an image  
+  
+Connect this project to see what's going with just a button and an image
